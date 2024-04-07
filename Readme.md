@@ -1,4 +1,5 @@
 ![logo](https://github.com/Mustafasheikhh/Mustafasheikhh/blob/main/Make%20your%20README.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 -  Welcome  I’m Mustafa Tariq
 -  Interested in      Cloud Applied Generative AI Engineering
